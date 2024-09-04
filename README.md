@@ -1,1 +1,4 @@
-# kauani
+- Meu nome é Kauani Machado.
+- Estou estudando no alura.
+- Estou me desenvolvendo na linguagem JavaScriph.
+- Faço uso deste espaço para me organizar e compartilhar meus projetos.
